@@ -9,6 +9,5 @@ c[i][j]=a[i][j]+b[i][j];
 System.out.print(c[i][j]+" ");    
 }    
 System.out.println();
-System.out.println("All the Best!);
 }    
 }}  
